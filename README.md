@@ -217,6 +217,5 @@ python main.py
 
 ## 相关文档
 
-- 英文文档：[docs/README_EN.md](docs/README_EN.md)
 - 免责声明：[docs/DISCLAIMER.md](docs/DISCLAIMER.md)
 - 支持文件类型：[docs/SUPPORTED_FILE_TYPES.md](docs/SUPPORTED_FILE_TYPES.md)
